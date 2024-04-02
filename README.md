@@ -1,5 +1,5 @@
-React로 만든 TodoList
-
+# React로 만든 TodoList
+---
 : React 기초를 익히고 처음으로 혼자 만들어본 프로젝트
 
 : 할 일 목록을 관리하는 간단한 웹
